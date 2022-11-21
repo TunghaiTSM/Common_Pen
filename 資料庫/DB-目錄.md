@@ -1,5 +1,4 @@
 ###### tags: `database` `note` `thu`
-{%hackmd theme-dark %}
 # DB-目錄
 ## Two taboos of database:
 ### 1. Null value
