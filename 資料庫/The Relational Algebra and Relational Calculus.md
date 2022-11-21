@@ -1,5 +1,4 @@
 ###### tags: `database` `note` `thu`
-{%hackmd theme-dark %}
 
 # The Relational Algebra and Relational Calculus
 ## Relational Algebra Operation from Set Theory
