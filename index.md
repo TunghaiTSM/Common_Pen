@@ -1,7 +1,6 @@
 [![hackmd-github-sync-badge](https://hackmd.io/uoyqecD4T1aZZxhsnFMxbQ/badge)](https://hackmd.io/uoyqecD4T1aZZxhsnFMxbQ)
 ###### tags: `contents` `all` `thu`
 
-{%hackmd theme-dark %}
 
 # 首頁
 
