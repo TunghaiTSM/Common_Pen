@@ -1,5 +1,4 @@
 ###### tags: `database` `note` `thu`
-{%hackmd theme-dark %}
 
 # ER Diagram至Schema的轉換
 本頁將會聚焦在將ER Diagram轉換至Schema的演算法。
