@@ -8,4 +8,4 @@
 ### [資料庫](/Common_Pen/Database/)
 ### [計算機組織](/Common_Pen/Computer_Organization/)
 ### [演算法](/Common_Pen/Algorithm/)
-### [微算機系統](/Common_Pen/Microcomputer/)
+### [微算機系統](/Common_Pen/Microcomputer_Systems/)
