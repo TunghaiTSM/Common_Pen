@@ -1,5 +1,4 @@
 ###### tags: `database` `note` `thu`
-{%hackmd theme-dark %}
 
 # Introduction
 
