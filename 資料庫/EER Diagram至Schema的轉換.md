@@ -1,5 +1,4 @@
 ###### tags: `database` `note` `thu`
-{%hackmd theme-dark %}
 
 # EER Diagram至Schema的轉換
 本頁將會聚焦在將EER Diagram轉換至Schema的演算法。
