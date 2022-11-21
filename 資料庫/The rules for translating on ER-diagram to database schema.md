@@ -1,5 +1,4 @@
 ###### tags: `database` `note` `thu`
-{%hackmd theme-dark %}
 
 # The rules for translating on ER-diagram to database schema
 
