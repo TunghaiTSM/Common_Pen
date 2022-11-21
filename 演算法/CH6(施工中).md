@@ -1,5 +1,4 @@
 ###### tags: `Algorithm` `test` `thu`
-{%hackmd theme-dark %}
 # CH6(施工中)
 
 
