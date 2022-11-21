@@ -1,5 +1,4 @@
 ###### tags: `computer organization` `note` `thu`
-{%hackmd theme-dark %}
 
 #  computer organization Chapter 4
 
