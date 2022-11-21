@@ -1,7 +1,6 @@
 # MC MID_TEST
 
 ###### tags: `microcomputer` `note` `thu`
-{%hackmd theme-dark %}
 
 ## Range
 Chapter 2, 3, 4~BCD (不含)
