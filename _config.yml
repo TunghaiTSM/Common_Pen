@@ -2,6 +2,7 @@ lsi: false
 safe: true
 source: [your repo's top level directory]
 incremental: false
+markdown: kramdown
 highlighter: rouge
 gist:
   noscript: false
